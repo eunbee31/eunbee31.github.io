@@ -1,7 +1,7 @@
 # Site
 title:              Eun-Bee Kang
 bio:                'Linguist & Research engineer in Natural Language Processing'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+description:        ""
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -26,7 +26,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   taylantatli
+disqus_shortname:   https-eunbee31-github-io
 
 # Social
 # if you don't have any of social below, comment the line.

@@ -6,19 +6,11 @@ date: 2016-03-21
 comments: false
 ---
     
-<center>Linguist & Research engineer in Natural Language Processing</center>
+<center>I am a Linguist & Research engineer working on Natural Language Processing (NLP).</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## Academic background
+* Master's Degree in _Linguistique, Informatique, Technologies du Langage_
+* Bachelor's Degree in _Sciences du Langage_
 
 ## Preview
 

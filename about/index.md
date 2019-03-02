@@ -8,6 +8,12 @@ comments: false
     
 <center>I am a Linguist & Research engineer working on Natural Language Processing (NLP).</center>
 
+## Simple timeline
+
+{% capture images %}
+	https://eunbee31.github.io/assets/timeline.png
+{% end capture %}
+
 ## Academic background
 * Master's Degree in _Linguistique, Informatique, Technologies du Langage_
 * Bachelor's Degree in _Sciences du Langage_

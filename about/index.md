@@ -13,7 +13,7 @@ comments: false
 ## Introduction
 
 My experience of having lived in several countries with very different cultures has made me open-minded.
-Besides, having two linguistic baggage from an early age helps me to catch the particularity of each language ​​when I learn it.
+Besides, having two linguistic baggage from an early age helped me to catch the particularity of each language ​​when I learned it.
 
 ## Academic background
 * Master's Degree in _Linguistique, Informatique, Technologies du Langage_

@@ -14,6 +14,11 @@ comments: false
 	https://eunbee31.github.io/assets/timeline.png
 {% end capture %}
 
+## Introduction
+
+My experience of having lived in several countries with very different cultures has made me open-minded.
+Indeed, having two linguistic baggage from an early age helped me to catch the particularity of each language ​​when I learn it.
+
 ## Academic background
 * Master's Degree in _Linguistique, Informatique, Technologies du Langage_
 * Bachelor's Degree in _Sciences du Langage_

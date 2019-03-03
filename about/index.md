@@ -10,10 +10,6 @@ comments: false
 
 ## Simple timeline
 
-{% capture images %}
-	https://eunbee31.github.io/assets/timeline.png
-{% end capture %}
-
 ## Introduction
 
 My experience of having lived in several countries with very different cultures has made me open-minded.

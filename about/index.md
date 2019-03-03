@@ -12,7 +12,8 @@ comments: false
 
 ## Introduction
 
-My experience of having lived in several countries with very different cultures has made me open-minded.
+Since I have lived in several countries with very different culture, I am open-minded.
+I appreciate the diversity of culture and language.
 Besides, having two linguistic baggage from an early age helped me to catch the particularity of each language ​​when I learned it.
 
 ## Academic background

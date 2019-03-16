@@ -13,6 +13,10 @@ Currently, I am working with industrial data as technical documents (e.g. specif
 
 ## Simple timeline
 
+{% capture images %}
+	https://eunbee31.github.io/assets/timeline.png
+{% end capture %}
+
 ## About me
 
 Since I have lived in several countries with different culture, I have been always interested in different languages and their diversity -- as well as in the diversity of culture. These trips allowed me to be open-minded and to have a good adaptability. I respect the difference that exists among people and I am always curious about everything!

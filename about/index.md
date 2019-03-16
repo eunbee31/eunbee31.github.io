@@ -13,7 +13,9 @@ Currently, I am working with industrial data as technical documents (e.g. specif
 
 ## Simple timeline
 
-![My timeline](assets/timeline.PNG)
+{% capture images %}
+	https://eunbee31.github.io/assets/timeline.PNG
+{% end capture %}
 
 ## About me
 

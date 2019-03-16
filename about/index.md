@@ -13,9 +13,7 @@ Currently, I am working with industrial data as technical documents (e.g. specif
 
 ## Simple timeline
 
-{% capture images %}
-	https://user-images.githubusercontent.com/27884776/54481764-4b967c80-4839-11e9-80f0-0c1698283aa4.PNG
-{% end capture %}
+![My timeline](https://user-images.githubusercontent.com/27884776/54481764-4b967c80-4839-11e9-80f0-0c1698283aa4.PNG)
 
 ## About me
 

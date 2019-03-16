@@ -24,7 +24,7 @@ I took advantage when I was in the university to learn other languages that I di
 Since I was little, I have always been interested in new technology. When I discovered the NLP, I immediately knew it was done for me.
 For now, I am only junior in the field. The good thing is that I keep learning and learning. I try to stay on the lookout for new technologies in the NLP.
 
-Also, I am a little nostalgic. I take pictures with an old camera of the 70s. Do not hesitate to go see my photos (by clicking on the camera icon on my site).
+Also, I am a little nostalgic. I take pictures with an old camera from the 70s. Do not hesitate to go see my photos (by clicking on the camera icon on my site).
 
 ## Academic background
 * Master's Degree in _Linguistique, Informatique, Technologies du Langage_ at _Université de Toulouse II -- Jean Jaurès_ in Toulouse, France

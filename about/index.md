@@ -6,11 +6,14 @@ date: 2016-03-21
 comments: false
 ---
 
-<center>I am a Linguist & Research engineer working on Natural Language Processing (NLP). Currently, I am working with industrial data as technical documents (e.g. specification documents, procedural documents) in System Engineering context. In System Engineering, it is crucial to have a good documentation because it allows to reduce the risk of failing in system development. As a linguist & research engineer, I am responsible for developing linguistic rules to detect anomalies in technical documents.</center>
+<center>I am a Linguist & Research engineer working on Natural Language Processing (NLP). </center>
+
+## Introduction
+Currently, I am working with industrial data as technical documents (e.g. specification documents, procedural documents) in System Engineering context. In System Engineering, it is crucial to have a good documentation because it allows to reduce the risk of failing in system development. As a linguist & research engineer, I am responsible for developing linguistic rules to detect anomalies in technical documents.
 
 ## Simple timeline
 
-## Introduction
+## About me
 
 Since I have lived in several countries with different culture, I have been always interested in different languages and their diversity -- as well as the diversity of culture. These trips allowed me to be open-minded and to have a good adaptability. I respect the difference that exists among people and I am always curious about everything!
 

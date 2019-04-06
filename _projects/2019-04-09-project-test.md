@@ -1,7 +1,7 @@
 ---
-layout: projects
-title:  "Markdown Syntax"
-date:   2016-03-15
+layout: project
+title:  "Project test"
+date:   2019-04-06
 excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
 tag:
 - markdown

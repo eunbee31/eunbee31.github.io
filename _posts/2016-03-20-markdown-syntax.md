@@ -1,4 +1,3 @@
-@@ -1,112 +0,0 @@
 ---
 layout: post
 title:  "Markdown Syntax"

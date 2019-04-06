@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cours partilier de coréen"
+title:  "Cours particulier de coréen"
 date:   2019-04-06
 excerpt: "Cours particulier de coréen à Toulouse"
 tag:

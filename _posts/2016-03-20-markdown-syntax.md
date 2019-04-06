@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Markdown Syntax"
+title:  "Cours partilier de coréen"
 date:   2019-04-06
-excerpt: "Cours particulier de coréen"
+excerpt: "Cours particulier de coréen à Toulouse"
 tag:
 - coréen
 - cours particulier

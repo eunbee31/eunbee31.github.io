@@ -24,6 +24,6 @@ comments: true
 
 시작해보겠습니다.
 
-![Let's get started!](eunbee31.github.io/assets/img/blog/started.jpg)
+![Let's get started!](/eunbee31.github.io/assets/img/blog/started.jpg)
 
 강은비 드림.

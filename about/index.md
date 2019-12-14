@@ -15,7 +15,7 @@ Having previously acquired experience in symbolic methods, I am now interested i
 
 ## Simple timeline
 
-![My timeline](https://user-images.githubusercontent.com/27884776/54481764-4b967c80-4839-11e9-80f0-0c1698283aa4.PNG)
+![My timeline](https://raw.githubusercontent.com/eunbee31/eunbee31.github.io/master/assets/timeline.PNG)
 
 ## About me
 

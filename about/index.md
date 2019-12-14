@@ -6,7 +6,7 @@ date: 2016-03-21
 comments: false
 ---
 
-<center>I am data scientist in Natural Language Processing (NLP). </center>
+<center>Data scientist in NLP</center>
 
 ## Professional introduction
 I am working as a NLP data scientist in an Artificial Intelligence startup located in Toulouse. I mainly work on the development of rules in the detection of relationships between named entities in texts.

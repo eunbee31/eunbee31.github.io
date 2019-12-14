@@ -6,10 +6,12 @@ date: 2016-03-21
 comments: false
 ---
 
-<center>I am a Linguist & Research engineer working on Natural Language Processing (NLP). </center>
+<center>I am data scientist in Natural Language Processing (NLP). </center>
 
 ## Professional introduction
-Currently, I am working with industrial data such as technical documents (e.g. specification documents, procedural documents) in System Engineering context. In System Engineering, it is crucial to have a good documentation because it allows to reduce the risk of failure in system development. As a linguist & research engineer in NLP, I am responsible for developing linguistic rules to detect anomalies in technical documents.
+I am working as a NLP data scientist in an Artificial Intelligence startup located in Toulouse. I mainly work on the development of rules in the detection of relationships between named entities in texts.
+
+Having previously acquired experience in symbolic methods, I am now interested in combining this symbolic method with the automatic method. Indeed, I am also working on the improvement of Machine Learning (ML) models in the detection of named entities as well as on the development of ML models in the detection of entity relationships.
 
 ## Simple timeline
 

@@ -11,7 +11,7 @@ comments: false
 ## Professional introduction
 I am working as a NLP data scientist in an Artificial Intelligence startup located in Toulouse. I mainly work on the development of rules in the detection of relationships between named entities in texts.
 
-Having previously acquired experience in symbolic methods, I am now interested in combining this symbolic method with the automatic method. Indeed, I am also working on the improvement of Machine Learning (ML) models in the detection of named entities as well as on the development of ML models in the detection of entity relationships.
+Having previously acquired experience in symbolic methods, I am now interested in combining this symbolic method with the automatic method. Indeed, I am also participating in the improvement of Machine Learning (ML) models in the detection of named entities as well as on the development of ML models in the detection of entity relationships.
 
 ## Simple timeline
 
